@@ -1,0 +1,33 @@
+.h3 {
+  color: #98c8ed;
+  font-size: 2.5vw;
+}
+
+.inp {
+  height: 2vw;
+  border-radius: 2vw;
+  padding-left: 2vw;
+  font-size: 1vw;
+  margin-bottom: 0.8vw;
+}
+
+.btn {
+  height: 2vw;
+  width: 5vw;
+  margin-left: 1vw;
+  background-color: #b3b8a7;
+}
+.timer {
+  color: #736a68;
+}
+.btn:hover {
+  cursor: pointer;
+  background-color: #f5775b;
+}
+
+.box {
+  background-color: #9da4eb;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px,
+    rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px,
+    rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
